@@ -8,5 +8,5 @@ if __name__ == "__main__":
         imgsz=640,
         batch=8,
         device=0,
-        workers=0   # ← QUAN TRỌNG (Windows)
+        workers=0   
     )
