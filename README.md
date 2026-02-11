@@ -56,8 +56,10 @@ Below are the main training outcomes and sample predictions.
 - **Epochs**: 50
 - **Batch size**: 8
 - **Image size**: 640
-- **mAP@0.5**: 0.78
-- **mAP@0.5:0.95**: 0.52
+- **mAP@0.5**: 0.92
+- **mAP@0.5:0.95**: 0.60
+- **Precision**: 0.87
+- **Recall**: 0.91
 ![YOLOv11 Training Result](https://drive.google.com/uc?id=1n8nKG6hlWP7j2sok2zJPYeGX_cWZvEqN)
 
 <p align="center">
